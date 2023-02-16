@@ -1,0 +1,88 @@
+
+
+/*menu*/
+.navbar{
+    background-color: #131313
+}
+
+.container-fluid .navbar-brand {
+    color: white;
+}
+
+.nav-item{
+    margin-right: 20px;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-item:hover{
+  background-color: white;
+}
+
+.dropdown-menu .dropdown-item{
+    color:  #131313;
+}
+
+.dropdown-menu .dropdown-item:hover{
+    background-color: #131313;
+    color: white;
+}
+
+/*hero*/
+.carousel-item{
+    height: 100vh; 
+
+}
+
+.img-sobre{
+    width:100%;
+    margin-top: 50px;
+}
+
+.psobre{
+    margin-right: 50px;
+    text-align: justify;
+}
+
+/*serviços*/
+.img{
+    margin-left: 40%;
+    margin-bottom: 5px;
+}
+
+.tserv{
+    padding-top: 50px;
+}
+
+/*CONTATO*/
+.tcont{
+    padding-top: 50px;
+    Padding-bottom: 20px;
+}
+
+/*footer*/
+.bg-footer{
+    background-color: #131313;
+}
+
+
+.t-footer{
+    color: white;
+}
+
+.p-footer{
+    color: white;
+    font-size: 15px;
+}
+
+.icones{
+    font-size: 30px;
+    color: white;
+    margin-left: 5px;
+}
+
+.icones:hover{
+    color: #6b6767;
+}
